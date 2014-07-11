@@ -7,7 +7,7 @@ Stable tag: 3.6.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-If you wish to migrate your current SilverStripe to WordPress - CMS2CMS Migration Plugin can help to convert all data totally automatedly in a few easy steps.
+If you wish to migrate your current SilverStripe to WordPress - CMS2CMS Plugin can help to convert all data totally automatedly in a few easy steps.
 
 == Description ==
 
