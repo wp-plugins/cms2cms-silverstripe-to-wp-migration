@@ -1,6 +1,6 @@
 ﻿=== CMS2CMS: SilverStripe to WordPress Migration  ===
 Contributors: cms2cms
-Tags: SilverStripe to WordPress, SilverStripe to WordPress migration, convert SilverStripe to WordPress, migrate SilverStripe to WordPress, images, plugin
+Tags: SilverStripe to WordPress, SilverStripe to WordPress migration, convert SilverStripe to WordPress, migrate SilverStripe to WordPress, images, plugin, pages
 Requires at least: 3.0.0
 Tested up to: 3.9.1
 Stable tag: 3.6.2
