@@ -13,10 +13,13 @@ If you wish to migrate your current SilverStripe to WordPress - CMS2CMS Plugin c
 
 If you wish to migrate your current SilverStripe to WordPress - CMS2CMS Migration Plugin can help to convert all data totally automatedly in a few easy-to-do steps. No coding experience or special skills are required to master and operate the tool properly. 
 
+*Supported WordPress versions:* 3.x (new software versions are constantly being added).
+
+* *There is Free Demo available (migration of limited number of pages).*
+* *Full Migration starts from $9.*
+
 = Video =
 [youtube https://www.youtube.com/watch?v=H8-yCTbFL-k]
-
-*Supported WordPress versions:* 3.x (new software versions are constantly being added).
 
 = The Following are the Supported Entities that can be migrated to WordPress: =
 * *pages*
