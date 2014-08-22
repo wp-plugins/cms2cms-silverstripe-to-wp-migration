@@ -35,6 +35,8 @@ If you wish to migrate your current SilverStripe to WordPress - CMS2CMS Migratio
 * Free Demo Available - CMS2CMS gives its users a possibility to view a website migration process in action and to estimate the results.
 * Live Support - CMS2CMS provides 24/7 live chat support to help users in case they got stuck. 
 
+More info: http://www.cms2cms.com/supported-cms/umbraco-to-wordpress-migration/
+
 *Note. The plugin installs the connection bridge on WordPress website, which is necessary for data exchange between SilverStripe and WordPress websites. Once activated, you’ll be redirected to CMS2CMS website in order to complete the migration.*
 
 == Installation ==
