@@ -2,7 +2,7 @@
 Contributors: cms2cms
 Tags: SilverStripe to WordPress, SilverStripe to WordPress migration, convert SilverStripe to WordPress, migrate SilverStripe to WordPress, images, plugin, pages
 Requires at least: 3.0.0
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: 3.6.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -13,7 +13,7 @@ If you wish to migrate your current SilverStripe to WordPress - CMS2CMS Plugin c
 
 If you wish to migrate your current SilverStripe to WordPress - CMS2CMS Migration Plugin can help to convert all data totally automatedly in a few easy-to-do steps. No coding experience or special skills are required to master and operate the tool properly. 
 
-*Supported WordPress versions:* 3.x (new software versions are constantly being added).
+*Supported WordPress versions:* 4.x (new software versions are constantly being added).
 
 * *There is Free Demo available (migration of limited number of pages).*
 * *Full Migration starts from $9.*
@@ -35,7 +35,7 @@ If you wish to migrate your current SilverStripe to WordPress - CMS2CMS Migratio
 * Free Demo Available - CMS2CMS gives its users a possibility to view a website migration process in action and to estimate the results.
 * Live Support - CMS2CMS provides 24/7 live chat support to help users in case they got stuck. 
 
-More info: http://www.cms2cms.com/supported-cms/umbraco-to-wordpress-migration/
+More info: http://www.cms2cms.com/supported-cms/umbraco-to-wordpress-migration/?utm_source=SilverStripe&utm_medium=Link&utm_campaign=WordPress_plugins
 
 *Note. The plugin installs the connection bridge on WordPress website, which is necessary for data exchange between SilverStripe and WordPress websites. Once activated, you’ll be redirected to CMS2CMS website in order to complete the migration.*
 
