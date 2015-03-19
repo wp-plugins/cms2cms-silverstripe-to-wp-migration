@@ -27,7 +27,9 @@ If you wish to migrate your current SilverStripe to WordPress - CMS2CMS Migratio
 * *internal links*
 
 = Additional Migration Options provided by the service: =
-* clear WordPress data before migration
+- clear WordPress data before migration
+- 301 redirects from old URLs to new URLs
+- forms
 
 = Features of Automated Migration: =
 * Intuitiveness - CMS2CMS service is favoured by first-time users because it expects no previous programming skills to work with. 
